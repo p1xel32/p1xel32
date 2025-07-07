@@ -1,16 +1,13 @@
-## Hi there 👋
+## Prior Work
 
-<!--
-**p1xel32/p1xel32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- `infra/observer-core` — internal telemetry tooling for event-level tracing  
+- `stack/edge-auth-guard` — lightweight request-layer wrapper with scoped isolation (deprecated)  
+- `zk/trace-probe` — WASM-level introspection for proof runners (archived)  
+- `ops/rollout-helper` — lightweight deploy pipeline with rollback fallback  
+- `index/state-tap` — passive snapshot extractor for fork-aware analysis (unpublished)
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rust · Zig · TypeScript · Kafka  
+WebGPU · WASM · Kubernetes · Terraform  
+ZK: circom · custom DSLs · native proof systems
