@@ -1,0 +1,22 @@
+# p1xel32 GitHub profile context
+
+> Small profile repository containing a concise list of prior/internal technical work and preferred technology areas.
+
+Last reviewed: 2026-09-29
+
+## Published prior-work labels
+
+The README currently lists:
+- infra/observer-core - internal telemetry tooling for event-level tracing;
+- stack/edge-auth-guard - lightweight request-layer wrapper, marked deprecated;
+- zk/trace-probe - WASM-level proof-runner introspection, marked archived;
+- ops/rollout-helper - deploy pipeline with rollback fallback;
+- index/state-tap - passive fork-aware snapshot extraction, marked unpublished.
+
+## Stack labels
+
+Rust, Zig, TypeScript, Kafka, WebGPU, WASM, Kubernetes, Terraform, circom, custom DSLs, and native proof systems.
+
+## Boundary
+
+This repository is a profile/index, not the source repository for the named prior-work items. Do not invent implementation details, availability, licensing, or current status beyond the labels in README.md.
